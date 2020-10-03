@@ -1,2 +1,7 @@
-# xiaoai-schedule-parser-tjcu
-小爱课程表解析器（天津商业大学 - TJCU）
+# 小爱课程表解析器
+
+## 学校
+天津商业大学 - TJCU
+
+## 教务系统
+URP v1.5_0
